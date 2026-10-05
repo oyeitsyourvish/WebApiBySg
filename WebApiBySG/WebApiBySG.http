@@ -1,0 +1,6 @@
+@WebApiBySG_HostAddress = http://localhost:5278
+
+GET {{WebApiBySG_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
